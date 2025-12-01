@@ -1,6 +1,4 @@
 # 🗄️ Amazon RDS – Construção de Servidor de Banco de Dados e Integração com Aplicação Web  
-**Laboratório AWS – RDS + EC2 + Networking**  
-> Documentação prática do laboratório *"Construa seu Servidor de Banco de Dados (DB Server) e Interaja com ele Usando um Aplicativo"*, realizado no âmbito do programa **AWS re/Start – Escola da Nuvem**.
 
 ---
 
