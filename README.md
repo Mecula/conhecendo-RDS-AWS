@@ -95,7 +95,7 @@ Em seguida, iniciei a criação da instância RDS utilizando o MySQL com implant
 | DB Name Inicial | **lab**                                   |
 | Backups         | Desativados (para acelerar o laboratório) |
 
-![Lab db](rds-imagem/4.9-database.png)
+![Lab db](rds-imagem/4.10-database.png)
 
 Após o provisionamento, aguardei o status ficar como **Available** e então copiei o **Endpoint** da instância, que seria utilizado na integração com o aplicativo web.
 
